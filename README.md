@@ -5,8 +5,8 @@ This project analyzes Flipkart data to uncover insights and trends, using Power 
 
 ## Dataset
 The dataset used in this analysis contains various attributes related to Flipkart's products, sales, customer reviews, and more.
-
-"C:\Users\Saurabh Singh\Pictures\Screenshots\FlipkartDataAnalysisSC.png"
+## Dashboard Preview
+![Flipkart Dashboard](https://drive.google.com/file/d/1cgiy8H9ii8CvCfrYJZ3jNfALMqkBid6n/view?usp=drivesdk)
 
 ## Steps to Recreate the Dashboard
 1. **Load Dataset:** Import the dataset into Power BI.
